@@ -12,9 +12,13 @@
 </head>
 <body>
 <<<<<<< HEAD
+<<<<<<< HEAD
     Hello from spring
 =======
     Hello from SPRing
 >>>>>>> 44e1c5b... fix problem
+=======
+    Hello from SPRING!
+>>>>>>> f3988a8... fix problem 2
 </body>
 </html>
