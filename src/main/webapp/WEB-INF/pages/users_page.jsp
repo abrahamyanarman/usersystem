@@ -11,6 +11,10 @@
     <title>Title</title>
 </head>
 <body>
+<<<<<<< HEAD
     Hello from spring
+=======
+    Hello from SPRing
+>>>>>>> 44e1c5b... fix problem
 </body>
 </html>
